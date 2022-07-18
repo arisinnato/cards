@@ -1,0 +1,123 @@
+.simple{
+    background-color: rgb(255, 146, 4);
+    width: 100px;
+    height: 25px;
+    font-size: medium;
+    color: lavender;
+    text-align: center;
+    padding: 1px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.price{
+    color: lavender;
+    background-color: rgba(112, 128, 144, 0.637);
+    width: 102px;
+    height: 69px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+    /*font-family: 'Lucida Sans Unicode', Geneva,"Verdana" ;*/
+}
+
+.email{
+    background-color: slategray;
+    width: 100px;
+    height: 25px;
+    font-size: x-small;
+    color: lavender;
+    text-align: center;
+    padding: 1px;
+    margin-top: 1px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.GB{
+    background-color: slategray;
+    width: 100px;
+    height: 25px;
+    font-size: x-small;
+    color: lavender;
+    text-align: center;
+    padding: 1px;
+    margin-top: 1px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.name{
+    background-color: slategray;
+    width: 100px;
+    height: 25px;
+    font-size: x-small;
+    color: lavender;
+    text-align: center;
+    padding: 1px;
+    margin-top: 1px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bandwidth{
+    background-color: slategray;
+    width: 100px;
+    height: 25px;
+    font-size: x-small;
+    color: lavender;
+    text-align: center;
+    padding: 1px;
+    margin-top: 1px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.button{
+    background-color: slategray;
+    width: 100px;
+    height: 25px;
+    font-size: x-small;
+    color: lavender;
+    text-align: center;
+    padding: 1px;
+    margin-top: 1px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.button:hover{
+    background-color: slategray;
+}
+
+.standard{
+    background-color: mediumaquamarine;
+    width: 100px;
+    height: 25px;
+    font-size: medium;
+    color: lavender;
+    text-align: center;
+    padding: 1px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.ultimate{
+    background-color: royalblue;
+    width: 100px;
+    height: 25px;
+    font-size: medium;
+    color: lavender;
+    text-align: center;
+    padding: 1px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contain{
+    display: inline-block;
+}
+
+body{
+    background: linear-gradient(rgb(37, 26, 107), rgb(66, 59, 105));
+    background-attachment: fixed;
+}
